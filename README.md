@@ -21,9 +21,4 @@ npm install -D parcel ->  Install Bundle Parcel with -Dev devDependencies,
 npm install react - Installing the React 
 npm install react-dom - Installing the DOM 
 
-
-ERROR - Make sure you configure your "user.name" and "user.email" in git.
-git config --global user.name "veerasingam0504"
-git config --global user.email "developerveeras@gmail.com"
-
 >>>>>>> 6a911e8 (ReactProject)
